@@ -9,11 +9,11 @@ module.exports = {
     conf: {
       name: "Aniversário da Malú",
       description: "Aniversário de 2 anos da Maria Luiza",
-      date: "02 de Agosto de 2014",
+      date: "02 de Agosto de 2014 às 17 horas",
       // If your event is free, just comment this line
       price: "",
       venue: "Salão de Festas - Cond. Moradas Marília",
-      address: "Avenida sigismundo Nunes de Oliveira, 730",
+      address: "Avenida Sigismundo Nunes de Oliveira, 730",
       city: "Marília",
       state: "SP"
     },
